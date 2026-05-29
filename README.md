@@ -18,8 +18,7 @@ A Discord bot built using Python and Discord APIs. The project focused on automa
 
 ---
 
-### Invoice Web Scraper
-
+## [🔍 Invoice Web Scraper](https://github.com/vasquez98gaspar-ctrl/invoice-web-scraper)
 A Python-based scraper designed to extract invoice and tracking information for workflow automation and operational processing.
 
 **Skills Used:**
