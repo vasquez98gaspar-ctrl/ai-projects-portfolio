@@ -6,8 +6,7 @@ I’m currently building skills in Python, AI automation, and workflow engineeri
 
 ## Projects
 
-### Discord AI Chatbot
-
+### [🤖 Discord AI Chatbot](https://github.com/vasquez98gaspar-ctrl/-discord-ai-chatbot)
 A Discord bot built using Python and Discord APIs. The project focused on automated interactions, command handling, and AI-assisted workflow logic.
 
 **Skills Used:**
