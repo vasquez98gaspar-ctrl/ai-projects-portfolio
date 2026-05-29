@@ -30,8 +30,7 @@ A Python-based scraper designed to extract invoice and tracking information for 
 
 ---
 
-### n8n Automation Workflow
-
+## [⚙️ n8n Automation Workflow](https://github.com/vasquez98gaspar-ctrl/n8n-automation-workflow)
 Built automation workflows using n8n to reduce repetitive manual tasks and improve operational efficiency.
 
 **Skills Used:**
